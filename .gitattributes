@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+# Scripts run on-device under /sbin/sh: never let CRLF in
+*.sh text eol=lf
+update-binary text eol=lf
+updater-script text eol=lf
+module.prop text eol=lf
+
+# Payload
+*.bin binary
+common/bootctl binary

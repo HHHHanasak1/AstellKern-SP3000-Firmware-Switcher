@@ -1,6 +1,6 @@
 id=sp3kfucker
-name=AK SP3000 series Fucker
-author=wdnmd
-description=Fuck Astell&Kern! Fuck firmware based DSP filter!
+name=AstellKern SP3000 Firmware Switcher
+author=HHHHanasak1
+description=Switch the modelconf country string and the active A/B boot slot on Astell&Kern SP3000 series players.
 version=1.0
 versionCode=100
