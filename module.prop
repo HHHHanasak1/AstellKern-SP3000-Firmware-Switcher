@@ -1,6 +1,6 @@
 id=sp3kfucker
 name=AstellKern SP3000 Firmware Switcher
 author=HHHHanasak1
-description=Switch the modelconf country string and the active A/B boot slot on Astell&Kern SP3000 series players.
-version=1.0
-versionCode=100
+description=Switch the modelconf country string (user-supplied, sha256-verified images) and the active A/B boot slot on Astell&Kern SP3000 players.
+version=1.1
+versionCode=110
